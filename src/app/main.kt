@@ -1,4 +1,4 @@
-package example.myapp
+package app
 
 fun buildAquarium() {
     val myAquarium = Aquarium(length = 25, width = 25, height = 40)

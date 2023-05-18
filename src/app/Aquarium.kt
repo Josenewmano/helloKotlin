@@ -1,4 +1,4 @@
-package example.myapp
+package app
 import kotlin.math.PI
 
 open class Aquarium(open var length: Int = 100, open var width: Int = 20, open var height: Int = 40) {
